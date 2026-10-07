@@ -1,0 +1,1 @@
+{"version": "1.2.161", "notes": "v1.2.161 更新：\n• 更新通道升级为 GitHub 自动更新\n• v1.2.160 修复已登录仍反复弹登录窗（IP被快手限流页面降级误报）", "url": "https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.161/SentinelLive.exe", "sha256": "A096F0EC5C829F6F5AAF84263582D896C884755C86BE7633B1A8AABACAE9AA67"}
