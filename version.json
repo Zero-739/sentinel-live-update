@@ -1,1 +1,1 @@
-{"version": "1.2.176", "notes": "v1.2.176 监控防风控（修复版：修复更新说明导致启动报错的问题）", "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.176/SentinelLive.exe", "sha256": "FC85840B7AF6348BFA723FEC6067FB635A624978CEDDC2E95DADF6F9E646852F"}
+{"version": "1.2.177", "notes": "v1.2.177 C盘零写入：运行临时目录改到D盘，启动自动清理残留", "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.177/SentinelLive.exe", "sha256": "D7E9874A07B1F4843381D30AA07753FA0FE50FF0762BCEC84A7314539C9AA0ED"}
