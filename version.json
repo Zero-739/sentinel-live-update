@@ -1,1 +1,1 @@
-{"version": "1.2.176", "notes": "v1.2.176 监控防风控：快手开播确认间隔30→120秒，浏览器取流频率降4倍；检测间隔可选600秒，遇风控自动退避10分钟", "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.176/SentinelLive.exe", "sha256": "F71900658EFA8801AC5AA3B800A5AD86648678405DF758EFB19006DD79FE82D0"}
+{"version": "1.2.176", "notes": "v1.2.176 监控防风控（修复版：修复更新说明导致启动报错的问题）", "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.176/SentinelLive.exe", "sha256": "FC85840B7AF6348BFA723FEC6067FB635A624978CEDDC2E95DADF6F9E646852F"}
