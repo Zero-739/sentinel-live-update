@@ -1,1 +1,1 @@
-{"version": "1.2.177", "notes": "v1.2.177 C盘零写入：运行临时目录改到D盘，启动自动清理残留", "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.177/SentinelLive.exe", "sha256": "D7E9874A07B1F4843381D30AA07753FA0FE50FF0762BCEC84A7314539C9AA0ED"}
+{"version": "1.2.178", "notes": "v1.2.178 退出即清理：正常退出自动删除临时目录，强杀退出下次启动自动清理，不占磁盘空间", "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.178/SentinelLive.exe", "sha256": "D347E3384C992C4E272AA39BDE79EA22570944CBEDAF0B613FFDF81AB6E9AE3F"}
