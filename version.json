@@ -1,1 +1,6 @@
-{"version": "1.2.179", "notes": "v1.2.179 云端账号同步：登录页自动从后台恢复账号/同步权益", "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.179/SentinelLive.exe", "sha256": "1B1BE4D8B23D64D1E5DB36BC29AA512241B57AEEADEB78F03C972B51F8CF29F6"}
+{
+  "version": "1.2.180",
+  "notes": "v1.2.180 更新：\n• 修复抖音短链（如 live.douyin.com/szwhly）无法识别房间号的问题\n• 优化短链解析：HTTP 重定向失败时自动从 HTML 提取 web_rid",
+  "url": "https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.180/SentinelLive.exe",
+  "sha256": "a6d0010e581924851502a827970a84e0c7a397c8eec65c3c7aae5647654d2ffe"
+}
