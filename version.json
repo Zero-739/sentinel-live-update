@@ -1,1 +1,1 @@
-{"version": "1.2.178", "notes": "v1.2.178 退出即清理：正常退出自动删除临时目录，强杀退出下次启动自动清理，不占磁盘空间", "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.178/SentinelLive.exe", "sha256": "D347E3384C992C4E272AA39BDE79EA22570944CBEDAF0B613FFDF81AB6E9AE3F"}
+{"version": "1.2.179", "notes": "v1.2.179 云端账号同步：登录页自动从后台恢复账号/同步权益", "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.179/SentinelLive.exe", "sha256": "1B1BE4D8B23D64D1E5DB36BC29AA512241B57AEEADEB78F03C972B51F8CF29F6"}
