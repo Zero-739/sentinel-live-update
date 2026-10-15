@@ -1,6 +1,6 @@
 {
-  "version": "1.2.182",
-  "notes": "v1.2.182 更新：\n• 修复点关闭窗口直接退出的问题，默认最小化到托盘后台运行",
-  "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.182/SentinelLive.exe",
-  "sha256": "74b847757ebdd710fcb0f94a2ddb241c73ba2607eb871e9f7c9c6453499d4fac"
+  "version": "1.2.183",
+  "notes": "v1.2.183:\n- Fix Douyin short link parsing",
+  "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.183/SentinelLive.exe",
+  "sha256": "b996d768a041cef3185ae068702fec6abc2e45255d66d95dae641eded6795d1b"
 }
