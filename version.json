@@ -1,6 +1,6 @@
 {
-  "version": "1.2.187",
-  "notes": "v1.2.187:\n- Fix Douyin short link parsing",
-  "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.187/SentinelLive.exe",
-  "sha256": "5cd3982289e132fd874b6e98db1c4ce327e4cfb3459d8524048dac8a0c803571"
+  "version": "1.2.188",
+  "notes": "v1.2.188:\n- Fix Douyin short link parsing",
+  "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.188/SentinelLive.exe",
+  "sha256": "efeddc7eba8c5cab1c88ebfcdd8e2216f4d4e658ead3be02f3d228681cf0176d"
 }
