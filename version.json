@@ -1,6 +1,6 @@
 {
-  "version": "1.2.188",
-  "notes": "v1.2.188:\n- Fix Douyin short link parsing",
-  "url": "https://gh-proxy.com/https://github.com/Zero-739/sentinel-live-update/releases/download/v1.2.188/SentinelLive.exe",
+  "version": "1.2.189",
+  "notes": "v1.2.189: 修复抖音短链识别，隐藏录制黑窗口，更新源切换到腾讯云（国内加速）",
+  "url": "http://124.220.164.25/update/SentinelLive.exe",
   "sha256": "efeddc7eba8c5cab1c88ebfcdd8e2216f4d4e658ead3be02f3d228681cf0176d"
 }
